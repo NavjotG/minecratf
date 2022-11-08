@@ -1,9 +1,9 @@
 // Variables to Store HTML Elements
-let steveImgE1 = document.getElementById("steve-img");
-let alexImgEl = document.getElementById("alex-img");
-let fish8tnEl = document.getElementById("fish-btn");
+let steveImgE1 = document.getElementById("steveP");
+let alexImgEl = document.getElementById("alexP");
+let fish8tnEl = document.getElementById("button-fish");
 let imgResultEl = document.getElementById("img-result");
-let numCodEl = document.getElementById("num-cod");
-let numSalmonEl = document.getElementById("num-salmon");
-let numTropicalE1 = document.getElementById("num-tropical");
-let numPufferEl = document.getElementById("num-puffer");
+let numCodEl = document.getElementById("numCod");
+let numSalmonEl = document.getElementById("numSal");
+let numTropicalE1 = document.getElementById("numTro");
+let numPufferEl = document.getElementById("numPuf");
